@@ -1,0 +1,20 @@
+.catcolumn {
+  width: 300px;
+  float: left;
+}
+.dogcolumn {
+  width: 300px;
+  float: left;
+}
+img {
+  width: 20%;
+}
+#cat {
+  font-family: fantasy;
+  width: 50%;
+  float: left;
+}
+#dog {
+  width: 50%;
+  float: left;
+}
